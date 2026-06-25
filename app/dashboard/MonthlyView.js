@@ -1,7 +1,6 @@
 'use client';
 
 import { useState } from 'react';
-import { useState } from 'react';
 import { Icon } from '../../lib/Icon';
 
 function fmtMoney(n) {
